@@ -1,0 +1,17 @@
+# Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
